@@ -1,0 +1,64 @@
+{
+    "id": "3401156",
+    "name": "new-dream",
+    "font_family": "iconfont",
+    "css_prefix_text": "icon-",
+    "description": "",
+    "glyphs": [{
+            "icon_id": "10258921",
+            "name": "logo-cat",
+            "font_class": "logo-cat",
+            "unicode": "e604",
+            "unicode_decimal": 58884
+        },
+        {
+            "icon_id": "2195",
+            "name": "搞笑趣味",
+            "font_class": "gaoxiaoquwei",
+            "unicode": "e600",
+            "unicode_decimal": 58880
+        },
+        {
+            "icon_id": "1617020",
+            "name": "热门",
+            "font_class": "remen",
+            "unicode": "e608",
+            "unicode_decimal": 58888
+        },
+        {
+            "icon_id": "7145724",
+            "name": "新闻",
+            "font_class": "xinwen",
+            "unicode": "e646",
+            "unicode_decimal": 58950
+        },
+        {
+            "icon_id": "7548886",
+            "name": "24gl-newspaper4",
+            "font_class": "24gl-newspaper4",
+            "unicode": "e8ae",
+            "unicode_decimal": 59566
+        },
+        {
+            "icon_id": "12842815",
+            "name": "w_新闻",
+            "font_class": "w_xinwen",
+            "unicode": "e67e",
+            "unicode_decimal": 59006
+        },
+        {
+            "icon_id": "23568269",
+            "name": "热门回答",
+            "font_class": "remenhuida",
+            "unicode": "e62f",
+            "unicode_decimal": 58927
+        },
+        {
+            "icon_id": "2675116",
+            "name": "搜索",
+            "font_class": "sousuo",
+            "unicode": "e632",
+            "unicode_decimal": 58930
+        }
+    ]
+}
